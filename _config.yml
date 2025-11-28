@@ -1,9 +1,10 @@
-title: "jekyll-shell-theme"
-tagline: "A jekyll theme that looks like a shell/terminal"
-description: "This is a preview of jekyll-shell-theme."
-github_username: tareqdandachi
-baseurl: "/jekyll-shell-theme"
-url: "https://tareqdandachi.github.io"
+title: "Website ADA"
+tagline: "Applied Data Analysis – EPFL"
+description: "Project Website for ADA 2025"
+github_username: louistschanz
+
+url: "https://louistschanz.github.io"
+baseurl: "/Website_ADA"   # EXACT repo name
 
 plugins:
   - jemoji
@@ -20,5 +21,4 @@ header_pages:
   - read-me.md
   - preview.md
 
-# set the size of the text to 'large' or 'small', default is small
 font-size: small
